@@ -1,0 +1,716 @@
+Microsoft Windows [Version 10.0.19042.1165]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Ashfaq PC\Downloads>cd interviewcodingpractise-main
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>C:
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git int
+git: 'int' is not a git command. See 'git --help'.
+
+The most similar command is
+        init
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git init
+Initialized empty Git repository in C:/Users/Ashfaq PC/Downloads/interviewcodingpractise-main/.git/
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git config --global user.name
+DarkSharkAsh
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .idea/
+        interviewcodingpractise-main.iml
+        interviewcodingpractise-main/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git add .
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/AddBinaryNumber.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/AirBnb/CheapestFlight.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/AirBnb/FindLandPoints.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/AirBnb/FindRootNode.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/AirBnb/WiggleSubsequence.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/AirBnb/findSubarrayKeywords.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/CarPooling.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/CardPoints.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/CombinationSum2.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/DataStreamMedian.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/DesignFileSystem.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/FileSystemImpl.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/FindDuplicateNumber.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/FindMedianDataStream.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/FindPeak.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/GameLife.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/KClosePointsOrigin.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/KLargestInStream.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/LLD_FileDesing.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/MaxDistanceBetween2Strings.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/MaxPromotionOverlap.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/MergeInterval.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/Pattern132.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/RangeSumQuery2D.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/RectangalreOverlap2Area.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/RectangleOverlap1.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/RemoveDuplicate2.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/RobotDirection.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/SearchSuggestionSystem.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/StairClimb.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/TaskScheduler.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/WallAndGate.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/WithoutConsecutiveOnes.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/BitNumberOFSetBits.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/BoatsSavePeople.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/CanAllBulbStart.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/CoinBaseCourseScheduling.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/DNADuplicateFinder.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/DijkstrasAlgo.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/DecodeWays.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/Equation2Array.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBContigiousSubarrayIndexShouldBeMax.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBCountPairWithGivenSum.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBEditDistance.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBLookNSay.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBMatchingPari.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBReverseArrayToMakeThemEqual.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBStringRotation.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBSubSets.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBTwoDSpiralArrayPattern.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FreqStack.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/MaxPopulationYear.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/NQueen.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/PalindromeOrNotRemove1char.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/PowerXtoN.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/PrimePalindrome.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/TwoCityScheduling.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FB/VerticalColumnPrint.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FindDistinctPathInTree.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FindJudgeInVillage.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FloodFreeCity.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/FurthestBuildingYouCanReach.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Game.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Google_TotalHammingDistance.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/GraphCourseSchedule.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/GraphIsBipartieOrNot.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/GraphMinimumHeightTrees.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/IMPQUESTIONS.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/JavaMemoryManagement.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/KClosestPointsOrigin.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/KLargestIntegerString.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATM.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMRoom.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMStates/ATMState.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMStates/CashWithdrawalState.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMStates/CheckBalanceState.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMStates/HasCardState.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMStates/IdleState.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMStates/SelectOperationState.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/AmountWithdrawal/CashWithdrawProcessor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/AmountWithdrawal/FiveHundredWithdrawProcessor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/AmountWithdrawal/OneHundredWithdrawProcessor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/AmountWithdrawal/TwoThousandWithdrawProcessor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/Card.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/TransactionType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/User.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/UserBankAccount.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/BookMyShow.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Booking.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Enums/City.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Enums/SeatCategory.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Movie.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/MovieController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Payment.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Screen.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Seat.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Show.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Theatre.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/TheatreController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignDataStructures/MyHashMap.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Address.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/CardPaymentMode.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Cart.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Inventory.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Invoice.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/NearestWarehouseSelectionStrategy.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Order.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/OrderController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/OrderStatus.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Payment.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/PaymentMode.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Product.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/ProductCategory.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/ProductDeliverySystem.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/UPIPaymentMode.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/User.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/UserController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Warehouse.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/WarehouseController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/WarehouseSelectionStrategy.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachine.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachineForBabies.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapter.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapterImpl.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Client/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/Client.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/Director.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/EngineeringStudentBuilder.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/MBAStudentBuilder.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/Student.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/StudentBuilder.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/ProblemStatement/Directory.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/ProblemStatement/File.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/ProblemStatement/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Directory.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/File.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/FileSystem.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/ArithmeticExpression.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Expression.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Number.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Operation.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/DebugLogProcessor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/ErrorLogProcessor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/InfoLogProcessor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/LogProcessor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Balance.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/BalanceSheetController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/Expense.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/ExpenseController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/ExpenseSplitType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/Split/EqualExpenseSplit.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/Split/ExpenseSplit.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/Split/PercentageExpenseSplit.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/Split/Split.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/Split/UnequalExpenseSplit.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/SplitFactory.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Group/Group.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Group/GroupController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Splitwise.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/User/User.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/User/UserController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/UserExpenseBalanceSheet.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/Coin.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/Inventory.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/Item.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/ItemShelf.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/ItemType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/VendingMachine.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/VendingStates/State.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/VendingStates/impl/DispenseState.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/VendingStates/impl/HasMoneyState.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/VendingStates/impl/IdleState.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/VendingStates/impl/SelectionState.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/HandleNullObject/Car.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/HandleNullObject/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/HandleNullObject/NullVehicle.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/HandleNullObject/Vehicle.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/HandleNullObject/VehicleFactory.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Bill.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Location.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Payment.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/PaymentDetails.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/PaymentMode.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Product/Bike.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Product/Car.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Product/Status.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Product/Vehicle.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Product/VehicleType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Reservation.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/ReservationStatus.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/ReservationType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Store.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/User.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/VehicleInventoryManagement.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/VehicleRentalSystem.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Inning/BallDetails.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Inning/BallType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Inning/InningDetails.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Inning/OverDetails.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Inning/RunType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Match.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/MatchType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/OneDayMatchType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/ScoreUpdater/BattingScoreUpdater.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/ScoreUpdater/BowlingScoreUpdater.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/ScoreUpdater/ScoreUpdaterObserver.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/T20MatchType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/Person.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/PlayerBattingController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/PlayerBowlingController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/PlayerDetails.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/PlayerType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/Score/BattingScoreCard.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/Score/BowlingScoreCard.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Team.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Wicket.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/WicketType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/Building.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/Direction.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ElevatorCar.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ElevatorController.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ElevatorCreator.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ElevatorDisplay.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ElevatorDoor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ElevatorState.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ExternalDispatcher.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/Floor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/InternalButtons.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/InternalDispatcher.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Board.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Cell.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Dice.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Game.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Jump.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Player.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Main.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Model/Board.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Model/PieceType.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Model/Player.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Model/PlayingPiece.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Model/PlayingPieceO.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Model/PlayingPieceX.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/TicTacToeGame.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/MaxRobbery.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/MinJumpReachHome.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/MinimumSizeSubarray.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/MorganStanley/MorganStanley.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Netflix/RecoverBinarySearchTree.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Ola/Question1.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/PayPayCalculator.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/RemoveStonesDecreaseSum.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/ReturnChange.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/ReverseLinkList.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/SolidPrinciple/SolidPrinciplesExamples.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/SpiralMatrix.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/ThreeSum.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/TinyURL.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/TrappingRainWater.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Tree.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/TreeInorderTraversal.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/TreePractise.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Twilio/DiskSpace.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Uber/BusRoutes.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Uber/StringFollowOrder.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Uber/WordCombinationsFromPhoneNumber.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Uber/findAtlest1CarRange.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Uber/findMinTimeToCompleteTrip.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Walmart/PrintSequence.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/WaterContainer.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/Weapon.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/dummy/Test2.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/dummy/Testing.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/goldmansach/FindTheLeaderInCircle.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/google/BitWise_BinaryStringContainsAllKbitsCombination.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/google/Candy.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/google/DeleteOperationForTwoStrings.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/google/MinimumOperationX20.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/microsoft/MinDeleteionUniqueString.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/microsoft/MinPairDiff.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/microsoft/PushDominos.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/microsoft/Question.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/microsoft/SafeState.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/oracle/OracleCanWeReachLast.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/oracle/OracleForestToolSize.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/oracle/OracleLRUImplemenation.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/oracle/OracleThreadPoolExecutor.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/salesforce/ExpressionParenthesizer.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/salesforce/MaxNumberOfAs.java', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'interviewcodingpractise-main/interviewcodingpractise-main/src/salesforce/Question1.java', LF will be replaced by CRLF the next time Git touches it
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git commit -m "C1"
+[master (root-commit) 5f48082] C1
+ 307 files changed, 14110 insertions(+)
+ create mode 100644 .idea/.gitignore
+ create mode 100644 .idea/misc.xml
+ create mode 100644 .idea/modules.xml
+ create mode 100644 interviewcodingpractise-main.iml
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/README.md
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/AddBinaryNumber.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/AirBnb/CheapestFlight.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/AirBnb/FindLandPoints.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/AirBnb/FindRootNode.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/AirBnb/WiggleSubsequence.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/AirBnb/findSubarrayKeywords.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/CarPooling.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/CardPoints.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/CombinationSum2.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/DataStreamMedian.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/DesignFileSystem.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/FileSystemImpl.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/FindDuplicateNumber.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/FindMedianDataStream.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/FindPeak.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/GameLife.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/KClosePointsOrigin.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/KLargestInStream.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/LLD_FileDesing.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/MaxDistanceBetween2Strings.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/MaxPromotionOverlap.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/MergeInterval.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/Pattern132.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/RangeSumQuery2D.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/RectangalreOverlap2Area.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/RectangleOverlap1.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/RemoveDuplicate2.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/RobotDirection.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/SearchSuggestionSystem.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/StairClimb.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/TaskScheduler.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/WallAndGate.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Amazon/WithoutConsecutiveOnes.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/BitNumberOFSetBits.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/BoatsSavePeople.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/CanAllBulbStart.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/CoinBaseCourseScheduling.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/DNADuplicateFinder.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/DijkstrasAlgo.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/DecodeWays.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/Equation2Array.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBContigiousSubarrayIndexShouldBeMax.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBCountPairWithGivenSum.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBEditDistance.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBLookNSay.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBMatchingPari.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBReverseArrayToMakeThemEqual.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBStringRotation.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBSubSets.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FBTwoDSpiralArrayPattern.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/FreqStack.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/MaxPopulationYear.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/NQueen.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/PalindromeOrNotRemove1char.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/PowerXtoN.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/PrimePalindrome.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/TwoCityScheduling.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FB/VerticalColumnPrint.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FindDistinctPathInTree.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FindJudgeInVillage.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FloodFreeCity.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/FurthestBuildingYouCanReach.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Game.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Google_TotalHammingDistance.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/GraphCourseSchedule.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/GraphIsBipartieOrNot.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/GraphMinimumHeightTrees.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/IMPQUESTIONS.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/JavaMemoryManagement.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/KClosestPointsOrigin.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/KLargestIntegerString.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/All_Creational_Pattern-1_Screenshot.png
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/All_Creational_Pattern_-_2nd_Screenshot.png
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATM.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMRoom.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMStates/ATMState.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMStates/CashWithdrawalState.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMStates/CheckBalanceState.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMStates/HasCardState.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMStates/IdleState.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/ATMStates/SelectOperationState.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/AmountWithdrawal/CashWithdrawProcessor.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/AmountWithdrawal/FiveHundredWithdrawProcessor.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/AmountWithdrawal/OneHundredWithdrawProcessor.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/AmountWithdrawal/TwoThousandWithdrawProcessor.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/Card.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/TransactionType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/User.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignATM/UserBankAccount.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/BookMyShow.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Booking.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Enums/City.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Enums/SeatCategory.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Movie.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/MovieController.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Payment.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Screen.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Seat.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Show.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/Theatre.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignBookMyShow/TheatreController.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignDataStructures/MyHashMap.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Address.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/CardPaymentMode.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Cart.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Inventory.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Invoice.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/NearestWarehouseSelectionStrategy.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Order.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/OrderController.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/OrderStatus.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Payment.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/PaymentMode.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Product.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/ProductCategory.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/ProductDeliverySystem.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/UPIPaymentMode.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/User.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/UserController.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/Warehouse.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/WarehouseController.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignOrderManagementSystem/WarehouseSelectionStrategy.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachine.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adaptee/WeightMachineForBabies.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapter.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Adapter/WeightMachineAdapterImpl.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/AdapterDesignPattern/Client/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/Client.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/Director.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/EngineeringStudentBuilder.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/MBAStudentBuilder.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/Student.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/BuilderDesignPattern/StudentBuilder.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/ProblemStatement/Directory.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/ProblemStatement/File.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/ProblemStatement/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Directory.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/File.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/FileSystem.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution1WithCompositeDesign/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/ArithmeticExpression.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Expression.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Number.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/CompositeDesignPattern/Solution2WithCompositeDesign/Operation.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/DebugLogProcessor.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/ErrorLogProcessor.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/InfoLogProcessor.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/LogProcessor.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignPatterns/LLDChainResponsibilityDesignPattern/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Balance.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/BalanceSheetController.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/Expense.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/ExpenseController.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/ExpenseSplitType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/Split/EqualExpenseSplit.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/Split/ExpenseSplit.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/Split/PercentageExpenseSplit.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/Split/Split.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/Split/UnequalExpenseSplit.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Expense/SplitFactory.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Group/Group.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Group/GroupController.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/Splitwise.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/User/User.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/User/UserController.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignSplitwise/UserExpenseBalanceSheet.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/Coin.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/Inventory.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/Item.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/ItemShelf.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/ItemType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/VendingMachine.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/VendingStates/State.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/VendingStates/impl/DispenseState.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/VendingStates/impl/HasMoneyState.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/VendingStates/impl/IdleState.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/DesignVendingMachine/VendingStates/impl/SelectionState.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/HandleNullObject/Car.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/HandleNullObject/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/HandleNullObject/NullVehicle.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/HandleNullObject/Vehicle.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/HandleNullObject/VehicleFactory.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Bill.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Location.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Payment.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/PaymentDetails.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/PaymentMode.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Product/Bike.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Product/Car.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Product/Status.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Product/Vehicle.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Product/VehicleType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Reservation.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/ReservationStatus.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/ReservationType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/Store.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/User.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/VehicleInventoryManagement.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCarRentalSystem/VehicleRentalSystem.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Inning/BallDetails.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Inning/BallType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Inning/InningDetails.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Inning/OverDetails.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Inning/RunType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Match.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/MatchType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/OneDayMatchType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/ScoreUpdater/BattingScoreUpdater.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/ScoreUpdater/BowlingScoreUpdater.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/ScoreUpdater/ScoreUpdaterObserver.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/T20MatchType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/Person.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/PlayerBattingController.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/PlayerBowlingController.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/PlayerDetails.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/PlayerType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/Score/BattingScoreCard.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Player/Score/BowlingScoreCard.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Team.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/Wicket.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDCricbuzz/Team/WicketType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/Building.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/Direction.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ElevatorCar.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ElevatorController.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ElevatorCreator.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ElevatorDisplay.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ElevatorDoor.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ElevatorState.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/ExternalDispatcher.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/Floor.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/InternalButtons.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/InternalDispatcher.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDElevatorDesign/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Board.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Cell.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Dice.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Game.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Jump.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDSnakeLadder/Player.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Main.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Model/Board.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Model/PieceType.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Model/Player.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Model/PlayingPiece.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Model/PlayingPieceO.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/Model/PlayingPieceX.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLDTicTacToe/TicTacToeGame.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/LowLevelDesign/LLD_Roadmap_Image__Concept____Coding_.png
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/MaxRobbery.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/MinJumpReachHome.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/MinimumSizeSubarray.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/MorganStanley/MorganStanley.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Netflix/RecoverBinarySearchTree.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Ola/Question1.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/PayPayCalculator.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/RemoveStonesDecreaseSum.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/ReturnChange.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/ReverseLinkList.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/SolidPrinciple/SolidPrinciplesExamples.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/SpiralMatrix.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/ThreeSum.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/TinyURL.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/TrappingRainWater.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Tree.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/TreeInorderTraversal.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/TreePractise.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Twilio/DiskSpace.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Uber/BusRoutes.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Uber/StringFollowOrder.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Uber/WordCombinationsFromPhoneNumber.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Uber/findAtlest1CarRange.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Uber/findMinTimeToCompleteTrip.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Walmart/PrintSequence.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/WaterContainer.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/Weapon.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/dummy/Test2.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/dummy/Testing.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/goldmansach/FindTheLeaderInCircle.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/google/BitWise_BinaryStringContainsAllKbitsCombination.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/google/Candy.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/google/DeleteOperationForTwoStrings.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/google/MinimumOperationX20.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/microsoft/MinDeleteionUniqueString.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/microsoft/MinPairDiff.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/microsoft/PushDominos.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/microsoft/Question.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/microsoft/SafeState.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/oracle/OracleCanWeReachLast.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/oracle/OracleForestToolSize.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/oracle/OracleLRUImplemenation.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/oracle/OracleThreadPoolExecutor.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/salesforce/ExpressionParenthesizer.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/salesforce/MaxNumberOfAs.java
+ create mode 100644 interviewcodingpractise-main/interviewcodingpractise-main/src/salesforce/Question1.java
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git status
+On branch master
+nothing to commit, working tree clean
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git branch
+* master
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git branch main
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git branch
+  main
+* master
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git branch -M main
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git branch
+* main
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git remote add origin https://github.com/DarkSharkAsh/Coding-Notes-LLD-Java.git
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git push -u origin main
+Enumerating objects: 369, done.
+Counting objects: 100% (369/369), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (361/361), done.
+Writing objects: 100% (369/369), 2.30 MiB | 178.00 KiB/s, done.
+Total 369 (delta 24), reused 0 (delta 0), pack-reused 0
+error: RPC failed; HTTP 408 curl 22 The requested URL returned error: 408
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>cd C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>C:
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git add ,
+fatal: pathspec ',' did not match any files
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git add .
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git commit -m "c1"
+On branch main
+nothing to commit, working tree clean
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git branch
+* main
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git remote add origin https://github.com/DarkSharkAsh/Coding-Notes-LLD-Java.git
+error: remote origin already exists.
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git push po
+fatal: 'po' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>git push origin main
+Enumerating objects: 369, done.
+Counting objects: 100% (369/369), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (361/361), done.
+Writing objects: 100% (369/369), 2.30 MiB | 190.00 KiB/s, done.
+Total 369 (delta 24), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (24/24), done.
+To https://github.com/DarkSharkAsh/Coding-Notes-LLD-Java.git
+ * [new branch]      main -> main
+
+C:\Users\Ashfaq PC\Downloads\interviewcodingpractise-main>^Z
