@@ -1,6 +1,7 @@
 - Scenario 
 
-hey in this   (use "git restore <file>..." to discard changes in working directory)
+ git status 
+  (use "git restore <file>..." to discard changes in working directory)
         modified:   k8s-with-springboot/simple-rest-api.md
 
 Untracked files:
